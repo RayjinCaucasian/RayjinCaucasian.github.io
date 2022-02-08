@@ -1,0 +1,25 @@
+#choices{
+    max-height: 300px;
+    scroll-behavior: auto;
+    overflow-y: auto;
+    width: min-content;
+    margin: auto;
+}
+#choices input{
+    margin: 10px;
+    display: block;
+    font-size: 1.5rem;
+}
+#controls{
+    text-align: center;
+}
+#controls button{
+    font-size: 1.15rem;
+}
+header {  
+    text-align: center;
+}
+#result{
+    text-align: center;
+    font-size: 1.3rem;
+}
